@@ -1,1 +1,3 @@
-hey guys i think we should continue with the same topic for AP with that of SAD
+hey guys i think we should continue with the same topic for AP with that of SAD 
+ya to make it time consuming we should do both AP and sad the same that is Hotel management system,because whemwe design a user interface for java we can use for SAD. and also we can use the requirements and high level and low level 
+designs for java.
